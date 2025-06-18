@@ -13,7 +13,10 @@ DHT11.h
 ### PINOUT
 
 pin 3 - display CLK;
+
 pin 2 - display DIO;
+
 pin 4 - DHT11 data port;
+
 pin 5 - digital input(button).
 
